@@ -1,0 +1,62 @@
+ LLLL     f                                     f 
+ jjffffffffLLLLLLLLLLLLLLLLLLLLLLLLLLLLLfffffffjjj
+ LLLGGGGGDDDGDDDDDDDDGDDDDDDDDDDDDDDDDDDGDDGGGGLfj
+ LGfLGGGDDDGGDDGGGDDDGDDDDDGDDDLGLLDDDDDGLGLGLLLfj
+ jfGGLGDDD#i;;#DDDDDDDDDDDDDDDDDDLLGDGDDDDDDDGLjj 
+  jfLGDDD#jtii;WGDDDDDDDDDDDDDDDDDDDDDDDDGDDLLjf  
+   LGGGGD;;;;;;;KDL,,Df.L....GGffffffffDDGGGGfLt  
+   fGGDGD###;###iGL.D...DGGj:D#DEEf;tiG#DGGGfGL   
+   jLDDGt;,#;#,;,.D.j.GDD.DDDD#i#EWft#i#LGLLGGj   
+   jfDED#i;;;;,;#G.j,i,.GttGDDDDDii:DDLDLDGGDGj   
+   jfKKEDi;iii;;DLDDDDDGGGDDDG: :iii.;,,,DGEDGj   
+   jffKEDD;;;;;DDDDDGGDDDDDf,,,,,,, ..D#KGLEDLt   
+   jjLKKDDDD#EDDDDDDGDGLGD:,,,,,,,,,.#GG.KDEDGj   
+   jfLKKEDGDDDD::;EKL:iDD:,,,,,,,,,,..DW.GGDDGj   
+   jjLKKEDGDD:###;iG#EDG ,,,,,,,,,,,..EW.DLLDGt   
+   jjLKWEGDG:#i,i,E###DD,,,,,,,,,,,,:#GG.GGGDGt   
+   jjfKKiG:#E,K#Liiiiii ::,,,,,,,,,,;:GK.GGLDGj   
+   tjLK###D,i#iij.:::: :::::WWWj:,,,t.Wf.GGDDGj   
+   tjfKKKK;D#ijDD ::::::WW:#.WWWWD,,fWGD.GGDDGj   
+   tjLKK###iiDDDDD:::::;WW:W WWW.KW,ftGG.DLEEGt   
+   tjLKEjtiDDDDDG;i..:::KfWW.EW.#WW:;;,,:LLEDGj   
+   tjLEEDDDDDDi###Gi....LWKWWE#.WW iWK:::.DEE;j   
+   tjLEDGGGLi#ft##i.fW..WW; GWWWtKWWjW,L:::ijij   
+   jjLEDLDLt#KEWWE#iWD#jWW:i### WWWWWWWW#:;jj;:   
+   tjfEDDDi##GLWGW#;WtW.GW;;,jj:WWWK#KWWE:;jj,:   
+   itfGDLDi###ff;###WWEi WWGfEEtWWj;WW:Wt:ijj,t   
+   jjLDDGLKtt . E#DKWWWf:tWjEGfWWfLfWW:E::itiLj   
+   jtfGLGD; #,G DW.iWWWfffjWWWWKDGff,t:..:;EDft   
+    jfGGDLi#######WDD:fff,KE;KK:Dfff;.:. DEEDjj   
+    jLDGGGDi#####tDDDDDDfEKiEKEjEf.   :DDDDDEfj   
+    jLGGGLGDDGtLDDGDGLGGGtt;:GtGfGDDDD.DDDEEEfj   
+    jLW########WWKKKKKKKWKK##############KE##fj   
+    jfW#W####W##############################Gtj   
+   fjfKGDKDDWDf#############################fjj   
+   tjjG#L#fG#G##############################fft   
+   ttfW#####################################jfj   
+   ttfW################WD##WKi##############tjj   
+   tjfW##############tiii;iiii#############Eifj   
+   jjfW##############DiiiDti#i#############W;fj   
+   jjf###############ijiiiii#i##############ifj   
+   jjfW####################################W;Lt   
+   tjfE##t##K;iW#W;i##Wj###,j##K,t##K,###:##;jt   
+   ttjD#####################################;jt   
+   ttjG#####################################;fj   
+   tjfG#####################################tfj   
+   jjfE#####################################jjj   
+   ttjK#####################################jjj   
+   tjfW##W###WW###WW###W###KW###KW###K###K#Kjfj   
+   jff#####################################KtLt   
+   jfLW#####################################tLt   
+   jfL##########G##tWG#f#LfWELEti#t###Ef#fW#tLj   
+   jjLW###############################DD#DE#jLj   
+   tjLW#####################################GLj   
+   jfLW###KDDW##################KDK######WLtfLj   
+   tjfGffjjttiijLGLGGfji;,,,,;;;;;iiitttttjjffj   
+   tjfLfGGGGGGGGGGGKGGGEGGWWGGEEGLLDGGGGfGGGffj   
+   tjfLGGGfGLLGLGGKKjGLEGGWWDGjtGLLGGGGGGGffLLft  
+  ttjfLLLLfjjfjjjffLfLLLffLLfffffffffLLLLLffjffjt 
+ tttjjjjtttttttttttttttttttitittttttjjjjjjtttjjjj 
+ ttjfffLfffLLLGfLGGGGLLLGLLLLLLLLGGGGGGLLfLLLLffj 
+ ittjjfffffffffffffffffffffffffffffLLLLfffffffjjt 
+ tjfff  L   L  LGGLDL      LL GG GGGLGGGGGGGGGLLf
