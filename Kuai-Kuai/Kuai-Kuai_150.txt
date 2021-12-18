@@ -1,0 +1,186 @@
+    ff                                                                                                                                                
+   LLLLLGLLfLLG                f    L                                                                                                     f  j j ff   
+   fjjjjjjfffjfffffffffffffLfffffffLfLffLfLLLffLfLLLGfDfLfLDLDLLGLDLGLLDL fGLL L GG G G                                   G G  G f fGffLffffjffjjjjjj 
+   LLLLLLLLGGGGGGGGGGGGGGGGDGDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGDDLDDDGLGLGLLDEDDDGDDDDDDGGDDGDDGGGDLGGGDGGGGGGGGGLLLLLLfff 
+   jjjjjjjffffffffffffffffffffffLLLffLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLfLfffLLffjffffffffffffffjjjjjjjj 
+   LLLLLLLLLGGGGGGGGGGGGGGGDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLGDDDDLDGGGGGGGGGGGGLLLLLLffj 
+   jjjjjjjjffffffffffffffffffffffffffLLLLLfLLLLffLLLLffffLLLfLLfLLLLfffLLfffffffffLLLfffffffffffffffffLLLLLLLLLLLLffjfffjfffffjffffjffffffffjjjjjjjjt 
+   fLLLLLLLLGGGGGGGGGGGGDGDDDDDDDDDDGGDDDDDDDDDGDDDDDGDDDDDDDDDDGDGDDDDDDDDDDDDDDDDDGDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLGDDLGLLDDLDLDGLGGGGGGGGLLLLffffj 
+   fjjjjjjjffjjfffffffffffffffffffffffLLLffLLLfLffLLfLLLLfffffLLLfLLLLLfLLLLLLLLLLfLfLLLffLLLLLLLLLLLLLLLfjjLLLfjfLfjjffjjfjjfjfjjfjffffffffjjjjjjttt 
+   GGGGGLLfLGLLGGGLGGGGGGGDGGGDDDDGDGGGDDGGDDDDDGDDDDDDDDDDDGDDDGGGDDGGLGDDGGGDDDGGGGDDGDDDDDDLLLDDDDDDDDLGLGDLLLLDGLGDDLLDGLDLGGLLGGGGGGfLLfLLLLfffj 
+   fLGGGGGfGfLfLGGGGGGGGGDDDDDDDDDGDDDDDDGDDDDGGGGDDGDGDDDDDGDDDGDGDDDDDDDDDDDDDDDGGGDDDDDDDDLLGLGLLLLLLDLDGGDLDDLDDLGDDLGDGLDLGGGLGGGGGLGLLLLLLLfffj 
+   fffLGGGGLLGLLLLGGDDDDGDDDDDDDDDGDDGDDDDDDDDGGGGDDGGGDDGGDLGDDGDLDDDDGDDDDGGDDDDDGGDDDGGDDDGLDDDLGLLDLDLDLGDLDGLDDLGDDLGDGLDGGGGLGGGGGGLGGGfLLffjj  
+    jjfLLGGLLLLLGLDGDGGGDDDDDDDDDW#KGLGEW#GDDDDDGDDDDDDDDGDDGGDDGDDDDDDDDDDDDDDDDDDDGDDDDDDDDDLLGDLDLGDLDLLLDDLGLLDDLGDDDDDGDDDDGLGGGGGGLGGGGfffjjjj  
+    jjffLfGLLGGGLGDGDDDDDDDDDDD#E;iii;;;;,L#DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLDLDLGDLDDGDDDDLGDDDDDDDDDDDDDDDDGDDDDDGGLGLfjjjjjj   
+     jjfffLLLLGGGDDDDDDDDDDGDEW;tttiiiii;;;,EWDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLGDLGLDGGDLDDDDDDDDDDDDDDDGLLGDDDDGLLLLGGGGLLfffffjjjt   
+     jjfffLLfLLGGDDDDDDGDDDDD#;jtttiiiiii;;;,WEDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLLLLDGDDDDGDDDDDDDDDDDDDGLGDDGLGDGGDDDDLGGGLLffjfjjjt    
+      jjfLfLGLLGGDGDDDDDDDGD#ijjttttiiiiiii;;;WDDGGDDDDDDDDDDDDDDDDDDDDDDDDDDGDDDDDDDDDDDDDDDDDGDDDDDDDDDDDDDDDDDDDDDLDDDDDDGGGDDDDGGLfLLLfjfffjt     
+       jfLLLGGLLLGLDDDGDDDD#;ttttttttiiiiiii;;;#EfGDDDDDDDDDDDDDDDijDDDDDDDD:..DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLDDDDDDDDLDDDGGGGGLLLLfLLffj      
+        jfLLGGGGGGGGGDDDDD#tiiiiiiiiiiiiiiiii;;,#LGDDDDD.....,DDDt.. DDDDDDG..j.:,;tfDDDDDDDDDGGDDDDGGGDDDDDDDDDDDDDLDDDDDDDDDGGGGGGGGLfLLGLLfjj      
+         fLLGGGGGGGGGGGGDDG;;;;;;;;;;;;;;;;;;;;;;KDDDDDL..,.:,.tD..fL..:tLD..,D.......DDGGGGGfffjfffffffffffffffffffjLDDDDDGGGGGGGGGGGLffLLLfft       
+          LLGGDDDDGGGGGGG#,iiKW####;;;;iK####W;;;#DDD....iE.tL:....Dt,:......DDDDDDED,DGDDGj##########################fDDDGGLGGLLLGLLffLGGLLjjt       
+          fLGGGDDDDGGGGGG#;;;i;,#,;;;;;;i,#,;;;;;EGDL..t.DDDDDDj..EffGDDDE..fD......E,DDDLLE###Ki###K######D####WL#j###jDDDGLLDGLLLLLffLGGLLft        
+          fLLGDDGGGDGGGGLD;;########L;f########;;iEDG..L.D..,D...iD......D..G.LGLfj.D:DGDLf##GDKiE#KEiff;#;tttf#iitGLt#iDDDGGGDGGLGLLfLGGGLLji        
+          jfLGLDDDDGGGLGDj;;,fL,#,#,;;;,#,#,EL,;;,KD.....:itLDEE.........D....:;itD:D:DLDLj##jtKitW#LfWK;#GGKij#GLWiLt#iDDDGDLDGGGGGLLGGGGLLjt        
+          jfLLDDDDDDGGGGDt;;W#L,#;##;;;W#,#,K#G;;,WD..EG:jGft,. ..jGDEG..D....:D.:D,.GDGDLj##Ei#ijE#if#W;##i#tG#itWWEj#iDDDDDGGGGGGGGGDDGGLfjt        
+          jffLDDDDDDDDGDDt;;;fL,#;#;;;;,#;#,KL;;;,KD..LD...;ijf,..DGfDD..D....;DEDD,DDDDDLj##Li#i###EfWW;#fKWtK##L#i#f#iGLGGGGLLGLLGLGGGGGLjji        
+          tjjLGDDEEDDDDDGLi;L##j#;#DE;tE#W#,EWW;;;EDG..Di..Dj,Lt;.jf.DE..Df...jG...jDDDDDDGf####D##K#WWW##E##D###E##G##LLLGGGGLLLLLGDDDGGGfjtt        
+          jjfLGDEEEEDDDDG#i;G,;;#;LG,;jt,;#,;GL;;LDDD..:D..fDEDfj.:DDDE..DGL..GG;:EjDDDDGDDDLWWWWWWWWWWWWWWWWWWWWWWWWWtDLLLLLLLLGGGDDDDGGGfjtt        
+          jjfffDDDEEDDDGL#;ii;;;#;;;;;;;;;#,;;;;;#DDGD..Dfjti,:.i..,:...GGDLt..tfGGDDDDDDGGDDDDDDD;,iiiii;:LDDDDDDDLDDDDDLDDDLGGLLGDDDDDGLtjtt        
+          jjjjfDEEEEDDGGLEiiii;;#;;;;;;;;;#,;;;;,#DDLD..:;itjfL.LDDDDDL;;fLLDDGji;tDDDDDDDDDDDDDD:;;fiiiiii;:DDDDDDLDDDDEDDDGGGGGDEEEDDGGLjjtt        
+          jjjffGEEEKEEDDGG#,ii;;;;;;;;;;;;;;;;;,KDDDLDDDDDGGGLLGDDDDGLGLGGLLDDDDDDDDDDDDDDDDDDDD:;;DWiiii;iii,ffLLGGLGGGKDGGGGGGDDEEEDDGGLjjtt        
+          jjjfLLKKKKKEEDDDE#ii;;iii;ii;ii;;;;;;E#DDDLDDDDDDDDDDDDDDDGGGLDGGGGDDDDGDDDDDDGf;:.   .:tEiiiiiii;f..:;;;,,,,WL,.GDDGGDDEEEDDGGLjjtt        
+          jjjjffDEKEEEEDDDDEDii;DELiiEiDDEf;;;tWDDDDLDDDDDDDDDDDGDLGDGLLDDDDDDDDDLDDDG, .:,,,,,,,,,:. .;iii;f..........:..;iDLLDDDEEEDDGGfjjit        
+          jjjjffLEKKEEEDDDDDWLi;;;;;;;;;;;;;;t#DDDDDDDDDDLLLDGLGGGLDGDGDDDDDGDDDDLDL .,,,,,,,,,,,,,,,,,: :;;f.....tDKDt..:KKDGGGDDEEEDDGGfjttt        
+          jjjffffEKKEKEDDDDDD#t;;;;;;;;;;;;;;#DDDDDDDGDDDLDDGGGGGLGDDDDDDDLDDDDDDDf :,,,,,,,,,,,,,,,,,,,,. ;f....t#DDE#i.KEfGGGLDEEEEDGGLjttjt        
+          jjjffLLKKKKKEEEDDDGDWW;;;;;;;;;;;D#DDDDDDDDGDDDGDGDLGDDDDDDGLGGDLLGGDDD .,,,,,,,,,,,,,,,,,,,,,,,,.f...j#GGGEE#:.;iGGDDGGDDDDDGGjjjjt        
+          jjjjfLLKKKKKEDDGGGDDDGW#f;;;;;jW#DDDDDDDDDDGDDDDGDDDDDDGLGGGGLGDLGLLDi ,,,,,,,,,,,,,,,,,,,,,,,,,,,f...KDGGGGEEt.;tDDDDDDEEEDDGGjjjjt        
+          jjjjfLLEKKEKKEEDDDDDDDDGDKW##WEGDDDDDDDDDDDDGDDDDDDGGLDLLGGLLGGGGGDG::,,,,,,,,,,,,,,,,,,,,,,,,,,,,f...#GGGGGGGf.DKKKDDGDEEEDDGGjjjtt        
+          jjjjfLLEKKKEEDEEDDDDDDDDDDDDDDDDDDDDDDDDDDDGfLfjjfjLLDDLDGLLGGGGDDD.:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f...KDGGGGGEt.;jGDLDDGDEDDDGGjjjjt        
+          ttjjjfLDEKKKKEEEDDDDLGLLDDDDDDDDDDDDDDGt::::::::::::::::iLDDDDDDDD.:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f...t#GGGGG#:.;jGGDGDDDDDDDGGjjjtt        
+          jjjfffLDKKKKKKEEDDDGGGGGDDDDDDDDDDDt::::::;tLEKKKKDLt,:::iDDDDDDD::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f....tWDDEWi..;fGGDGGGDDDDDGGjjjti        
+          jjjjfLLDKKKKKKEEDDDGGDDDLDDDDDDDG::::,jW################KiDDDDDDj.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f.....:tjt:...;fDGLGGGGDDDDGGjtttt        
+          jjjjfLLDKKKKKKEEDDDGGDDDDLDDDDG:::,D########GfjW,.,#it;#tLDDDDDL ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,j.....:tjt:...;fDDGGGGGGDDDGGjjtjt        
+          jjjjfLLGKKKKKKEEDDDGLGLLDDDDD,::,#####E#iK;#fi,#G:L#jjE#iDDDGLD ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,j....iWEDEW;..;LDGGLLGLGGDDGGjjttt        
+          jjjjfLLGKKKKKKEEDDDGGDDLDDDG,::t####G,L#WfW#fi,#W,E#D.G#iDGGDDG ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t...;DDGDKDG..;LDDGGGGGGGDDGGjttti        
+          jjjjjjfGKKKKKKKKKEDDDLGGDDi::,####;#D:,j,W,#,;tWD::KE#E#fDDDDD ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t:..GKGGGGKWt.;LDGGGLLGLDGDGGjttti        
+          jjjjfjLGKKKKWWLEKEGDDDDDG:::L###Lii#,G,iDL,;KE##########iDDDDf.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,i:..#GGGGGGGj.;GGDGGGGGDDDDGGjttit        
+          jjjjfjfGKKKEWjKKKE;DDDD;::;##W,:#:f.#jf;################DDDDD ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,..#GGGGGGDj.;GGGGGGLGDGDDGGjjjjt        
+          jjjjjjfLKKKEWjji,,:DDt:::E###;#i#iftW#####KLtiiiiiiiiiitGfDDL :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,..fWGGGGG#;.;GGGGGGGGGDDDGGjjjjt        
+          jjjjjjfLKKKDKGti;,G;:::i###tEG,tjK,W##WLiiiiiiiiiiiiiiiiiiDD ,:::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;..:fEGGGKf..,GGGGGGGLGDDGGGjjjjt        
+          tjjjfjfGKKKKfjji;,,::i####,#f#:#E###Giiiiiit  ....... ;ittD. :::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,i....tKWEt...,DGGGGGGGDDDDGGjjjjt        
+          tjjjffLGKKKKDjt;,,;D###L:#,##;W###Liiiiitt, :::::::::: LGj,.::::::::::::,:...::....:,,,,,,,,,,,,,,,i......:.....,DGGGGGGDDDDDGGjjjtt        
+          tjjjffLGKKKK#########DG:,G#K,W##DiiiitijD:.:::::::::::: . .:::::,,:::::::iWWWWWWWWWKj..:,,,,,,,,,,,t....fW#Wf...,DGGGGGGDDEDDGGjjjjt        
+          tjjjffLGEEKKK######K,tEjjG#;###GiiitijGDD,::::::::::::::.::::::ijji::::: WWWWWWWWWWWWWj..,,,,,,,,,,t...j#GED#j..,DGGGGGDDEEDDDGjjjjt        
+          tjjjfjLGKKKKK##GW;EfiLWDjLj##WiiiiijDDDDDf.:::::::::::::::::::jWWWWt::::LWG,,GWWWWWWWWWWE..,,,,,,,,j..j#GGGDK#,.:DGGGGGDDEEEDGGjjjjt        
+          tjjjfffGKKKKK##K#tKff;,#D###LiiitjDDDDDDDD ::::::::::::::::::j#WWWWD::: #....:WWWWWWWWWWWWD .,,,,,;f:.WDGGGGDDj..DGGGGGGDDEDDDGjjjjt        
+          tjjjjffGKKKKKW##f,f#Lj;###KiiiitDDDDDDDDDD ::::::::::::::::::fWWWWWW;:::Wj.,E#WWWWWWWt. LWWWf ,,,:KKL.#GGGGGGGf..DGLGGLGDEEDGDGjjjjt        
+          ttjjjffLKKEKKE##W:j#G####tiiiifDDGGDDGGGDDi.::::::::::::::::,KWWjjWWi: WWWWWWWWWWWWWWW....WWWE ,,,:f..EEGGGGGKt..DGGGLLGDDEEGDGfjtti        
+          tjjjjfLGKKKEKEW########fiiitiDDDDDDDDDGDDDD ::::::::::::::::;WWWjjWW;: WW#  WWWWWWWWWW#...KWWW;,,,,f..tWGGGGGK...DDGLLLDEDEEDDGfjtjt        
+          tjjjffLLKKKKKEffW##WDiiiiiiGGDLDDGDDDDGDDDD ..::::::::::::::;WWWEjWW: iWWt..#WWWWWWWWWWWDiWWWWG:,::DWt.;KKEKE,...DGDLGGGDDEDDDGfjtjt        
+          tjjjjfLGEKEKEEDjtttiiiiiifDDGDDDDDDDDDDDDDDL ...::::::::::::,KKWWtKD:.#WW::.#WWWWWWWE. WWWWWWW;::::K,....;i;.....DGGLGGDDDEDDDGftjti        
+          tjjjffLGEKKEEEEjtttiiiiLDDDDDDDDDDDDDDDGji;;ii;,....:::::::::DKKKKfDWWWWWtj.WWEDWWW#...#WWWWWW ::::;t;;;,,,,,::: fLGDLGDEEEDDDGfjjtt        
+          ttjjffLGEKEKEEDDDGfLGDDDDDDDDDDDDDDGt;itLKWWDtiii,.....::::::jEEEf#WWKKWW#;WWKWWWWWW...WWWWWW# :::,iti,:.:i.,,,,: DLGDDEEEEEDDGfjjjt        
+          ttjjffLGEEKKEEDDDDDDGDDDDDDDDDDDDDj;iGW#######;iii........:::tKEt#WWKKGGWW#WWDWWWKWE;;.WWWWWWf.::,GWKEji.:i.:,,,, DGDDGDEEEEDD:fjjjt        
+          tjtjffLLEEEKEEDDDDDDGDDDDDDDDDDGtit##########Giiii............fLWWWWKKj;WWWWW#EWL#W#..#WWWWWW ::i#WWWWKG.:i.:::::,.GDDEEEEEEE;;fjjjj        
+          tjjjjffLEEEEEDGGDDDGLGGDGDDDDtitj##########j;iii;.............:jWWWWKD. tWWWWWW#WWWW#WWWWWWWE :;#WWWWWWK.:i.:::::::jDDEEEEEf;ti:jjjt        
+          tjjjffLGEEEEDDGGLDGGGDDDDDGiiiG###W#######Diii; ....it:.......:EWWWWWj   tWWWWWWWWWWWWWEKKKWW:.WWWWWKjtf.:i.,::::::.iDEEEEiijti jjjt        
+          tjjjffLLEEEDDGGGLGGDDGDDLiiif##jLftttE######tii,...fWWW,......iWWWWWW;    tGWWWWWWWWWKitKKKWWWWWWWjjEWW#G,i.Ljt:::::,:ijitjjjti:tjj         
+          jjjjffLLEEEDDDGLLGLGDGDGiii###:jDfti;tf######Lii,.;#WWWt......tWWWWW#:....##ffKWWWKGi  fGKKWWWWWWGjLWWWWWLi WW#j::::,;ttjjjjjt;: jjt        
+          jjjjffLLEEEDDGGGLDDDDGLiit###KifGfj#KKKKEEK###fii,jWWW#t.;t;..tWWWWW#::..####:#KEK     EKKKWWWWWWfG#WWWWW#t WWWD,:::,;itjjjjjt;:.jjt        
+          jjjjffLGEEEEDGGLDDDGDLiit####EKGfEWWWWWWWEEW###;iiDWWWD.j#WKj.iWWWWW#:::i#### #### .  .WWWWWWWWWWWtWWEWWWWt WWW#;:::,;ttjjjjjt;:::jt        
+          tjjjffLGEEEEDDDDDDDGDii;#####ED#jW#######WW####KiiLWWWjt#WWWj.;WWWWW#,,,,L##t.####;...iWWWWWWWWWWWtWWfWWWWf WWWW,:::,;itjjjjtt;:: jt        
+          tjjjffLGEEEEDDDDDDDDjiiD#####DGKj#######WW######iiiWWWtfWWWf;.:WWWWW#,,,,,jW::####j:..jWWWWWWWWWWWtWWLWWWWL WWWL::::,;itjjjjtt;::.jt        
+          tjjjffffEEEEDDDDGGDDii;######DGGGLKWWWKGKWW#####;i;WWWt#WWG:.. GWWWWW;;;;,,,,,jDLj::::WWWWWWWWWKKKf#W#KWWWt WWLEt:::,;itjjjjtt,:::.j        
+          itttfffLEDDEDDDDLLGtiiW######KGGGLjtjiffEKE#####Lii#WWW#W#i  ..jWWWWWtfGGGjt;;;;;,,,,tWWWWWWWWj:,,fWWWLfWGt.jL#Wt:::,ittjjjjtt,::: j        
+          ijjtfffLEDDDDDDGLDG;i;########fDGLfti,,jGD######W;iWWWWWWG#t   ,WWWWWfLGGGDDjDEEDLji,KWWWWWWKK;.:;WGWWW#;:i WWW#t:::,iitjjjjtt,:. :j        
+          itttfffGDGDDDDDLGDDiii#########fLffjfjj;L########;iWWWWWWEW#i   jWWWWWjGGDDfEEEEDEEDtWWWWWWKKj:,;,WWWWWW.:i WWWt::::,iitjjjjtt,. tjt        
+          tjjtfjfGDGDDDDDGGDGiiG###########GfLK############;iWWWWWWWWWi   ,KWWWWGGDDDEEDDDDDDG#WWWWWKKE,,ff:WWWWWW.:i.LjGj::::,iitjjjttt .fjjt        
+          tjjjfffGDGDDDGLLGGLiiK#K#ffG#E###### LLDj#Kffff##;i#WWWWWW#t,,   tWWWWWjDDDEDDDDDDGKWWWWWKKG,Lfff:#WWWWW.:i WWWt::::;iitjjjti;ifjjjt        
+          jjjjjfLGDDDDDGDGGGLiiK#;t## ##  .. W t#E#W###D:#K;;WWWWWWWW,f;,:  tWWWW#jDEEDDGGGfWWWWWWKKfiGLffftDWWWWW.:i.Eft:::::;iittjtiiDLfjjjt        
+          ttjjffLLDDDDDDGGGGGiiD#:GW#,K:W,W#;# t:DD###;f##tiiWWWWWWWWjfff;,. tWWWW#jLDDGLjG#WWWWWKKjfGGjffff:WWWWW.:i.:....:::,iittitEEDffjjjt        
+          jtjtjfLLDDDDLGGGGDDiit#.,G#D #t:ii:K.;ED#K..:...;iWWWWWWWW:fffffft,:tKKWWW#DGDWWWWWWWKKKtGGGGfffffjGWWWj.:i.......::;iiiiEEEDDfjjjjt        
+          jjjtjffLGGDGLGGGGGD;i;#: i## #,,LG,t t;D#iWWW.WWiiKWWWWWWW,fffffffft,jLKWWWWWWWWWWWWKKKDGGGGLffffff,#Wt:.:i.......::;;;iEEEDDDffjttt        
+          jjjtfffGDGDLGLGGGDLfii#K: ## #t,W#;# iDDti### #;iLGjKLWW#,fffffffff,KKKffEWWWWWWWKKKKGtDifDGjfffffff,;:..:i.......:::;DEEKEEEDffjjji        
+           jjtffLfGGDLLGLGGGLDiif:EK..j:#....# jWDW## :jGiLDDDGfjD:iffffffffftKKKE,Gjtjffffjtj;fGfGtKtfffffffff:...:i......  :DEEEEEEEEDjfjjjt        
+           jjjfjfGGGDLGGLDLLLLGii######################WijDDDDDD:,;fffffffff,DKKKLEKK;KKKKKKEE:LDDDjfffffffff;:....:i...   ,DDEEEEEEEDDGjfjjjt        
+           jjjffffGDDGGGLDDLGGDji;####################WitDDDDDDDD;,tfffffff,DKKKK,KKDEKKKKKEEDtDtfGGfffffft,.......:i.  :GDDDDEEEEEEEEDGjjjjjt        
+           jjjffLGDDGGGGGGGLDGDDji;##################KijDDDDDDDDDDDj,,,,;ii,KKKKK,KKiEKKKKKKDfGDtjKtfffj;:        .:i.jDDDDDDDEEEEEEEEDDfjjjjt        
+           jjjffLLDDGGGGGGGDGGDDDLi;K###############tiGDDDDDDDDDDDDDDDDDLfjiEKKKELiE,EKKKKKEGDjDjEiff;:.         ..:i.DDDDDDDDEDEEDEDEDDffjjjt        
+           tjjffLLDDGGGGGGGGGGDDDDDtiiD###########fijDDDDDDDGGGDGGLDGGGGGGG,EEEEEG,,,EKKKKEGDfjiGif;:       .,jDDD.:i.LGLDLLDGGDEEEEEEDDfjttjt        
+           tjjffLLDDGGGGGGGGGGGDDDDDDti;iGKWWKDt;ifDDGGDLDDDLGLGLLGDGGGGDGGj:fLi,;fitGEKKGGjDfjEif;iijfLGDDDDDDDDD.:i.GDDGGGDGEEEEEEEDGDfjjjjt        
+           jjjffLLDGGGGGGGGGLDDGLGDGDDDDGftttjLDDDDDDDGGGLDDGGLDLDDGLGGGGGGtt;;tff;tf:EDGLDttGGtff,DGDDDDDDDDDDDDD..i.DLLDDDDDEEEEEEDEDGfjjjjt        
+           jjjffLLDGGGGGGGGLDDDDGDDDGGGDDDDDDDDDDDDDDDGDDLDDGGGGLLLGDGGGDGG,ffffff##fiLGGGELKGifftiLDDDDDDDDDDDDDD.:i.DGDDDDDDEEKKW###DGfjjttt        
+           jjjffGEEEDDDDDGGGGGDDDDDDGDDLDDDDDDDDDDDDDGDDDGGGDDDDDDDDDDDDDDD,ffffffifGGGGGGEGjjfff:DDDDDDDDDDDDEEEKfGEK##############W#GGffjjjt        
+           jjjffLKWW#########################WWWWWWWKKWKKKKKKKKKKKKKKKKWKWWDKKKKWW######################################W#W#KE#EW###E#DDffjjjt        
+           jjjffLKEEWED#DKWE#E#WK#W##W#########################################################W#W#WK#E#EE#DWKD#D#EK#W###############WDGffjjjt        
+           jjjfffKEW########################W##W#W##K#KW#K#K#WK#KK#E#W#WK#KW#K#W##W#W##W############################################KDLLjfjjjt        
+           jjjfffEKW####WW######WW######WW##########################################################################################WGLLtjjjjt        
+           jjjfffGK####LDELE##WLEEf###KGEEf##########################################################################################Lffjfjjjt        
+           jjjfjjjWW##fDDDWG##LDDDWf#EGDDDWf#########################################################################################fLfjfjjtt        
+          fjjjjfffWK##GDDDDKK#DDDDDL#fDDDDDf#########################################################################################fffjffjjt        
+          fjjtffffWK##GDDDDEW#GDDDDL#fGDDDDf#######################################################################################K#fffjfjtjt        
+          jjjjffjfWE##fGDDDL##fGDDDG#WLGDDDD#######################################################################################K#ffjffjjtt        
+          tttjffjjWG###LLLL####fGLG####LGLG########################################################################################WWfjjffttjt        
+          jjjjfffjWW###############################################################################################################DKjjjLfftji        
+          jjjtjjftKK################################################################################################################GjjtLjjjtt        
+          tjjtjfftDW###############################################################################################################Wfjjtffjjji        
+          tjjjfjftLW###############################################################################################################Wjtttfjfjjt        
+          tjjjffftfWK###############################################################################################################tttifffjtt        
+          tjttjjftjWW#################################################WWKDfL#####WWWWKDfi###########################################ttitjfjjjt        
+          tjttjjjttWK############################################jiiiiiiiitL###iiiiiiiitj#########################################W#ttiiffjtjj        
+          ttttjffttWK############################################KffLGijK######GLGDLiW############################################K#tiijfjjjjj        
+          tjjjfffjtWK###########################################tiiiiiiiiiii;#iiiiiiiiiiiiD#######################################E#tiifffjjjj        
+          tjjjfffftWG###########################################KGGGiDijffDEK#EEEGtGiKiKKK##########################################iiiLfjjjjj        
+          jjjjfffLtWW############################################GGji#ijii#Li#LfftiEi#i#KiW#######################################G#iiiffffjjj        
+          jjjjfffLtWD###########################################Diiii#ijiiiiD#tttiiEi#iiit########################################W#i;iLfffjjj        
+          jtjjjjffiWD##############################################Di#ijiiE#j####jiEi#iL#tK#######################################EKiiiLfffjjj        
+          jjjjfffLt##############################################Wfii#ijii#Di#WGtiiKi#i##if#######################################DDiiiLfffjjj        
+          jjjjfffLi#E###########################################iiiji#itiiiii#iitjiKi#iiiiG########################################GiiiLfffjjj        
+          jjjjfffLiWW##############################################Wi#it#LLLW####DtKi#KGGE########################################KfiiiLfffjjj        
+          tjjjfffLiWK#################################################it###########Ki##############################################jiiiLffjjjj        
+          jjjjfffLiWW#############################################################################################################Wti;iLLfjtjj        
+          tjjjfffLtKW##############################################################################################################ii;tLffjtjj        
+          tjjjfffLjKW#####K#E#K##D##W#W#E##E#K####D##W#E##E#E#W##D##K#K#E##E#W##W#D##K#K##E#D##W#E##K#E#K##D##W#E#E##E#K##D#D######;i;jLffjtjt        
+          tjjjfffLfE######j#t#f##:#ED#G#;##i#fW#W#:#WG#;##i#,#GK#:#WL#j#t##,#DK#D#,##j#t##,#:#KD#,##t#i#fW#:#KD#,#i##;#LW#:#:#W####;i;ffjfjtjt        
+          itjjfffLfE###############################################################################################################;i;fLjfjtjt        
+          tttttjfjfD###############################################################################################################;i;LLjfjtjj        
+          tjjtjjjLfD#############################################################################################################W#;i;LLjfjtjj        
+          itjtjfjLfD###############################################################################################################;i,GLjffjjt        
+          ttttjfjLfD#############################################################################################################W#;i;GLLffjjt        
+          ttttjfjLfG###############################################################################################################;i;LLfffjjt        
+          itjjfffLLG#############################################################################################################W#;iiLLfffjjt        
+          tjjjfffLLG#############################################################################################################W#;iiLLfffjjt        
+          tjjjfffLLG###############################################################################################################;itLLfjjjjt        
+          tjjjfffLLG#############################################################################################################W#;itfLLfjjjt        
+          tjjjfffLLD###############################################################################################################;itLLfjtjti        
+         fjjjjfffLLE###############################################################################################################;ijfLjjtjji        
+         jtjjjfffLLK###############################################################################################################;ijfLjjttti        
+         jjtjjjjfLLKW##############################################################################################################;ijLLjfjjtt        
+         jttttjfjLLK###############################################################################################################iijLLjjjjtt        
+         ttjtjjjjLLWW##############################################################################################################iijLLLjttjt        
+         jttjjffffLWW#############################################################################################################WjijLfLffjjt        
+         jtjjjfffLfWW#####W#W#W##K####W#W##W#W####K####W##W#K####K##W#W#W##K######K##W#W##K#K####K##W#W#W##K####K#W##W#W##K#K#####KLijLffjjjjt        
+         ijtjjfffffWE#####t#i#j##.#ED#L#;##i#fW#W#.#WL#,##;#,#GK#:#WL#j#i##,#DK#D#:##t#t##:#:#KD#:##t#i#fW#:#KD#:#;##;#LW#:#.#W####DitLLLffjjj        
+         ijtjjjjjLL#W#############################################################################################################DWitLLLffjjj        
+         tjjtffffLL#E#############################################################################################################K#itLLLfftj         
+         jjjjjfjLLL#D#############################################################################################################K#ttGLLffjt         
+         jjjjjjfLLLW##############################################################################################################K#ttGLLffjt         
+         jjjjffLLLLWG###############################################################################################################itGLLfftt         
+         jjjfffLLLLW###############################################################################################################WitGLLfftt         
+         jjjjffLLLLWD##############################################################################################################WftLLLfftt         
+         jjjjfffLLL#W###########################WGfL####;jtW#WiGG####ifjK#EiLffffiWL;EKWL;EE#ftj#ifi#Ljt###########ELGf####KfGfW###EEtjfLffjt         
+          jjjffLLLGW############################WDfWjjjKDf#j#GGtLjjjDKtj;##DjGtKjGWti;fWii;L##tj#tiEWtjK##########EDDDWf##LGDDWG###E#jjLfffjt         
+          jjjjffLLDW#############################tD#####fEGW#EDtD####DDtD#fttijWfjKiiitKiiit#Kfj#Lfi#DEt##########fDDDDE##LDDDDWD####jjLLjfjj         
+          jttjffLLEW##############################################################################################fDDDDEW#LDDDDED###KjjLLfjjj         
+          jjtfffLLWK##############################################################################################DGDDDL##LGDDDG####DEjGLfttt         
+          jttjffLLWG###############################################################################################GLGL####ELGLW######jGLffjt         
+          tttjffLLWW#################################################################################################################GKLLffjj         
+          tttjffLLWK#######################################################################################################W#DWKD#K####fLffj          
+          jttjffLLWD#WW############################################################################################K#KD#DK#W#########WWjLffj          
+          jjjfffLDWW#######W#K#KD#DE#D#DWWE#KW#W###############################################W#KK#DWDKWD#EK#W############WWEDLtttfjfffLjjj          
+          jjjfffLLLLGLGDEKKWWW#########################W#K#KW#K#KK#EW#K#E#KE#EW#W#K##W#W####################WWWKDGLjtttittjjjjjjjfjfjjjffLjj          
+          jjjjffLLLGGffffjjjjjjjttttiiiiiittjjfLLGDDEEKKKWWWWWWWWWWWWWWWWWWWWWWWWWWWWKKKEEDGGLfjtii;;;;;;;iiiiiitttttttitjjjjtttjfffffLfffjt          
+          tjjjfffLLGGfffffjjjjjjjtttttiiiitittjffLLLGGGLGGGGGGLLffjjtiii;;,,,,,,,,,,,,,,;;;;;;;;;;;;;;iiiiiiiiitttttttttitjjtttjfjjjfffLfLLj          
+          tjjjfffLLGGffffffjjjjjjjjfGLDDDDLDDDGDDDDDDLDGLDDDDDDDDDDDDDDDDDDDDDDDDDDGLfjtti;;;;;;;;;;iiiiiiiiittttttttttjjijjjtjjjjjfjjffLffff         
+          tjjjfffLLLGffffffffGGGGGDGGDDDDGGDDGDGDGGDGDGDDGDDDDDDDDGDGDDGDDDGGGGDW#DGGDDDDGGGGDDDDDDGLfLLfffttjttttttjjjjjtjjfffffffffffLLffjj         
+          tjjjfffLLLfffjLGGGGGGGGLGGGGGGGGGGGGGGGGLGGDGGWDKKEGGGGGGGEEEDGGGGGDWWEEW#EGGGGGKEEEEGGGLLLLLLDGDDGGGGGGGGGGGGGfGGGGGGGGGGffLLfffjfj        
+          tjjjfffLLLfGGfLGGGGGGGLGGLGGGGGGGGGGGGGGLGGLGWG#LL#GGGGGG#tft#GGGGG#EEEEEE#GGGGEtfLijKGGLLLGGLGLGGGGGLGGGGGGGGGGLLGGLLGGGGGLLLLfjjfjt       
+          tjjjfjjfLLfGGfLGGGGGGLGGGLGGLGLLLGGGGGGLGGGGGWtEfjDGGGGGKtDGtDDGGGG#WWWEWW#GGGGEtjfGfGGGLGLLLLGLGGGGGLGGLGGGGGGGGLLLLLGGGGGLLLLLLjfjjt      
+         ttjjjtjfjLLfGGfLGGGGGGfGGGLLfLLLGfGGLLLGGGGGGLKiGKiGjGGGGGLDiEiGGGGGWWWWEWKWDGGGEtjfLtGGGLLLLLLGGGGLGGLGGLGGGGGGGGGGGGfGGfGGLLLLffffftj      
+       ttttjjjjffjLLfLLffGLLLLLLLLLLLLfLfffLLLLLfLLLLLLKtjEfjDGGGGGLKKKG#GGGGWEDEDDEWGGGGEjfKDfGGGLLLLLLGGGGLGGGGGGGGGGGGGGGGGGfLfLLLLLLLLfffjjjtt    
+       ttttjjjtfjjfLfLLffLLLLLLLLfLLfffffffffjfjffffLLLLEGEEDtLLLLGEKKKKtLLLLGEEEEEELGLLLGEDEjEjLLLLfLLLLLLLLLLLLLGGGGGGGGLLLLfffLLfLLLLfjjjjjjjtt    
+      tttttjjjjjfffLLfLLLLLLLfffffjjfjfffjjjjjjjjjffffffffLfLfLLLLLLLLLLffffffLLLfLfLfffffffffffffffffffffffffLLLLLLLLLLLLLLLLfffffffjjjfffffjjjjtt   
+     ttttttjjjffffffffffffffjfffjjjjjjjjjjjjjjjjtjjjjjjjjjfffjfffffffffjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfjffffffffffffffffffffjjjjjjfffffffjjjjtti  
+    iitttttjjjjfjffjjffjjjjjjjjjjjttjjjtttttttttttttttjjjjjjtjjjjjjjjjjttttttttttttttttttttttttttttttjjjjjjjjjjjjjjfffffjjjjjjjjjjjjjjjjjjjjjjjjjjtt  
+    tttttttjjjjjjjjjjjjtttjjttttttttttttttttttttttttttttttttttttttttttttttttttttttiittttiitttttttttttttttttttjjjjjjjjjjjjjjjjttttttttttjjjjjjjjjjjtt  
+    tttttjjjffjjffLffGfGGfGGffGfLLffLLLLLLLLLLLfLLLLffLffffjfffffffjjjjjjjjjjjjjtttttttttttttttttttttttttttttjjjjjjjjjtttttttttttttttttttttjjjjjjjtt  
+    iiiitttttjttjjjtjfjjjjffjffjjfjjffffffffffjfffLLffLLLfffffffffffffffjfffffjffffjjfffffffffjfffffffffffLLLLLfLLLLLfffffffjjjffffffffffjjjjjjtttti  
+    tttttjjjffjffLLffLLfffLLfLLfLLLfLLLLLGGGGGfGLLLLGGGGGGGGLGLGLLLLLLLLfGLLLLLLLGLLLLGGLLfLGGLLGLGGGLGGGGGLGGGGGGLGGGLLLLLLfffLLLLLLLLLLLLffffjjjjj  
+    itttttjjjjjjfffjjffffjffffffLfLfLLLLLLLLLLLLLLLLLLLLLLLLLLLfLLLLLLLLffLLLLffLLLLLLLLLLLLLLLfLLLLLLLLLLLLLLLGGGLLLLLLLLLffffLLLLLfffffffffjjjjjtt  
+    tttjjjjfffLLLLLLLGLffLGGGGGGGGGGGGGGGGGGGGGGGGGLGGGGGGGGGGLGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDDDDDDDDDGGGGGGGGLLGGGGGGGGLLLLLLLLffffjf  
+    ittttttjjjjjjffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffLLLLLLLLLLLLffffffffffffffffffffffjjjjjjttj  
+    ttjjjjfffLLLLLLLGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGLLLLLLLffffj  
+    iiittttjjjjjjfjffjfffffffLfffffffffffffffffffffffffffffffffffffffLffffGfLffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffjjjjjjjjjjt  
+    ttjjfjff f ff f L  L L           L    L G LL GLLGLGLG DG L L  L L             L LL G G GG G G GLGG GDGGLGLGGGGLGGGGGGGGGGGGGGGGGGGGGGLLLLLLLLfff  
+                                                                                                                        G G  G G G  G G LL LGLLLfGff
